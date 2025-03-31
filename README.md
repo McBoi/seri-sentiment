@@ -19,6 +19,16 @@ Este repositorio forma parte de un proyecto de investigación enfocado en el des
 
 El objetivo del proyecto es explorar el uso de modelos de análisis de sentimiento en Cmiique Iitom, buscando contribuir a la preservación de la lengua.
 
+---
+
+## Nota sobre los datos
+
+Los datos de ejemplo en `oracionesPositivasEjemplo.csv` y `oracionesNegativasEjemplo.csv` fueron seleccionados y clasificados por el autor como parte de este proyecto de investigación. Sin embargo, los textos en lengua Cmiique Iitom (Seri) fueron originalmente extraídos del **Diccionario Cmiique Iitom – Seri – Español**.
+
+Este proyecto no tiene fines de lucro y busca contribuir al desarrollo de herramientas de PLN para lenguas en peligro de extinción desde un enfoque respetuoso y académico.
+
+
+
 ## Licencia
 
 Este repositorio está disponible bajo la licencia MIT.
