@@ -8,8 +8,8 @@ Este repositorio forma parte de un proyecto de investigación enfocado en el des
 
 ## Contenido del repositorio
 
-- `OracionesPositivas.csv`: Oraciones etiquetadas como positivas para entrenamiento del modelo.
-- `OracionesNegativas.csv`: Oraciones etiquetadas como negativas.
+- `oracionesPositivasEjemplo.csv`: Oraciones etiquetadas como positivas para entrenamiento del modelo (ejemplo).
+- `oracionesNegativasEjemplo.csv`: Oraciones etiquetadas como negativas (ejemplo).
 - `StopWords_Seri.csv`: Diccionario de stopwords en Seri en formato CSV.
 - `StopWords_Seri.json`: Diccionario de stopwords en Seri en formato JSON.
 
@@ -21,5 +21,5 @@ El objetivo del proyecto es explorar el uso de modelos de análisis de sentimien
 
 ## Licencia
 
-Este repositorio está disponible bajo la licencia MIT.  
+Este repositorio está disponible bajo la licencia MIT.
 
